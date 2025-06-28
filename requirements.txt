@@ -10,3 +10,5 @@ langchain-google-genai
 langchain-openai
 openpyxl
 openai
+flask
+flask-cors
